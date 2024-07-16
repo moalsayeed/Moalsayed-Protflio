@@ -42,8 +42,8 @@ function Home() {
               <HashLink to="/#contact"><button>Let's talk</button></HashLink>
             </Col>
             <Col md={5} sm={12} className="bannarimgs wow slideInRight" data-wow-duration="2s" data-wow-delay="0.1s">
-              <img src="images/623503637e979197919c6c03_Topology-1 (1).svg" alt="" className="waves" />
-              <img src="images/623a183aa76fb537cbc5dc0e_Group 8-p-500.png" alt="" className="laptop" />
+              <img src="Public/images/623503637e979197919c6c03_Topology-1 (1).svg" alt="" className="waves" />
+              <img src="Public/images/623a183aa76fb537cbc5dc0e_Group 8-p-500.png" alt="" className="laptop" />
               <div className="imgbox gimg">
                 <img src="images/62324067d42bfc263ee547ff_image 4 (Traced).svg" alt="" />
               </div>
